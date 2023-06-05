@@ -2,14 +2,14 @@
 
 Here is Fabio. I’m Italian 🇮🇹 but I have been living in Buenos Aires since 2017 🇦🇷. I consider myself an analytical person, versatile, fast-learning, persistent & capable of offering creative solutions. English and Spanish speaker. 
 
-•PBI
-•Tableau
-•SQL
-•JavaScript 
-•HTML 
-•CSS
-•Node.JS
-•React
+• PBI
+• Tableau
+• SQL
+• JavaScript 
+• HTML 
+• CSS
+• Node.JS
+• React
 
 
 <!--
